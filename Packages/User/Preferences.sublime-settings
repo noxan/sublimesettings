@@ -11,5 +11,5 @@
 		"Vintage"
 	],
 	"theme": "Soda Light.sublime-theme",
-	"translate_tabs_to_spaces": false
+	"translate_tabs_to_spaces": true
 }
