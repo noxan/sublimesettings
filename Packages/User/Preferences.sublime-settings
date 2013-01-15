@@ -1,5 +1,6 @@
 {
 	"color_scheme": "Packages/Color Scheme - User/Espresso Soda.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"font_options":
 	[
 		"no_bold",
@@ -7,12 +8,11 @@
 		"subpixel_antialias"
 	],
 	"highlight_line": true,
-	"trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"theme": "Soda Light.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
