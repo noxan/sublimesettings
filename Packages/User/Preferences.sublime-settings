@@ -6,6 +6,7 @@
 		"no_italic",
 		"subpixel_antialias"
 	],
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
