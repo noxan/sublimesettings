@@ -1,5 +1,11 @@
 {
 	"color_scheme": "Packages/Color Scheme - User/Espresso Soda.tmTheme",
+	"font_options":
+	[
+		"no_bold",
+		"no_italic",
+		"subpixel_antialias"
+	],
 	"ignored_packages":
 	[
 		"Vintage"
