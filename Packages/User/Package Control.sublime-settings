@@ -1,8 +1,15 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"CoffeeScript",
 		"Markdown Preview",
+		"Nodejs",
 		"Package Control",
+		"Sass",
+		"Stylus",
+		"SublimeCodeIntel",
+		"SublimeLinter",
 		"Theme - Soda"
 	]
 }
